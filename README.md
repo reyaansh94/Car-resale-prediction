@@ -1,0 +1,1 @@
+# car resale prediction done by vishal shinde In data scinece and analytics course at EPITA
